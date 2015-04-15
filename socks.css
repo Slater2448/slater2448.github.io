@@ -105,3 +105,7 @@ i.feature {	font-size:100px;}
 .footer a {color:#FF5800;}
 
 .footer .copyright {padding:25px 0 0 0px;}
+
+body {
+  position: relative;
+}
